@@ -18,7 +18,6 @@ design_patterns/
 ├── singleton/
 ├── builder/
 ├── observer/
-├── bridge/
 ├── facade/
 ├── factory/
 └── abstract_factory/
